@@ -35,13 +35,16 @@ The application will be available at http://localhost:8000.
 
 Usage
 To add a new employee, navigate to the 'Add Employee' section and fill in the required details.
+<br>
 To view the list of employees, go to the 'Employees' section.
+<br>
 To edit or delete an employee, use the options available in the employee list.
-Screenshots
-Include screenshots of your application here to give users a preview of what to expect.
 
 Technologies Used
 Laravel 11: PHP Framework for building robust applications.
+<br>
 Bootstrap/Tailwind CSS: For styling and layout (specify which one you used).
+<br>
 MySQL: Database for storing employee records.
+<br>
 Composer: Dependency management.
